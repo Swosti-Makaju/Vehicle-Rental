@@ -144,7 +144,7 @@
 ?>
 
     <button class="utton"><a href="vehiclesdetails.php">Go to Home</a></button>
-    <div class="name">HELLO! Thomas Bhattarai</div>
+    <div class="name">HELLO! </div>
     <button class="cancel-btn"><a href="cancelbooking.php">Cancel Booking</a></button>
     <div class="box">
          <div class="content">
