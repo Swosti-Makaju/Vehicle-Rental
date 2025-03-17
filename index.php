@@ -104,9 +104,9 @@
     <footer>
         <p>&copy; 2024 VeloRent. All Rights Reserved.</p>
         <div class="socials">
-            <a href="#"><ion-icon name="logo-facebook"></ion-icon></a>
-            <a href="#"><ion-icon name="logo-twitter"></ion-icon></a>
-            <a href="#"><ion-icon name="logo-instagram"></ion-icon></a>
+            <a href="https://www.facebook.com/thomasbhattrai"><ion-icon name="logo-facebook"></ion-icon></a>
+            <a href="https://x.com/thomashbhattarai"><ion-icon name="logo-twitter"></ion-icon></a>
+            <a href="https://www.instagram.com/swostimakaju/"><ion-icon name="logo-instagram"></ion-icon></a>
         </div>
     </footer>
 

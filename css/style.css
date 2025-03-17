@@ -111,7 +111,7 @@ body {
     margin-left: 3rem;
     background: var(--primary-color);
     border: none;
-    padding: 0.7rem 2rem;
+    padding: 0.7rem 5rem;
     border-radius: 25px;
     cursor: pointer;
     transition: var(--transition);
